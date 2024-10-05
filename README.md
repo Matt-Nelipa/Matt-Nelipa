@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matvey Nelipa
+- 👋 Hi, I’m Matvei Nelipa
 - 👀 I’m interested in Machine Learning and Data Analytics
 - 🌱 I’m currently learning ML Fundamentals and AlgoTrading techniques
 - 🎓 MSU EF'25
